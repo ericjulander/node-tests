@@ -1,0 +1,23 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncFiles.js",
+  "dependencies": {
+    "async": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericjulander/node-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericjulander/node-tests/issues"
+  },
+  "homepage": "https://github.com/ericjulander/node-tests#readme"
+}
