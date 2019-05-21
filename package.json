@@ -4,7 +4,8 @@
   "description": "",
   "main": "asyncFiles.js",
   "dependencies": {
-    "async": "^2.6.2"
+    "async": "^2.6.2",
+    "strftime": "^0.10.0"
   },
   "devDependencies": {},
   "scripts": {
